@@ -5,13 +5,17 @@
   "keywords": [],
   "author": "Rye Nguyen <ryenguyen7411@gmail.com>",
   "license": "MIT",
+  "private": false,
   "homepage": "https://github.com/colorye/demo-release#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/colorye/demo-release.git"
+    "url": "git+https://github.com/colorye/demo-release.git"
   },
   "bugs": {
     "url": "https://github.com/colorye/demo-release/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "scripts": {
     "build:browser": "webpack && cp dist/calculator.js examples/browser",

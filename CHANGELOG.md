@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/colorye/demo-release/compare/v1.1.2...v1.1.3) (2022-05-21)
+
+
+### Bug Fixes
+
+* release config ([443d3d0](https://github.com/colorye/demo-release/commit/443d3d0d7535cdbe524f0e278635d05abed370ae))
+
 ## [1.1.2](https://github.com/colorye/demo-release/compare/v1.1.1...v1.1.2) (2022-05-21)
 
 

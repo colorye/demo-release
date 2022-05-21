@@ -1,3 +1,16 @@
 {
-  "branches": ["release"]
+  "branches": ["release"],
+  "plugins": [
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/release-notes-generator",
+    "@semantic-release/changelog",
+    "@semantic-release/npm",
+    ["@semantic-release/git", {
+      "assets": ["dist/**/*.{js,css}", "CHANGELOG.md", "package.json"]
+    }],
+    ["@semantic-release/github", {
+      "successComment": false,
+      "failComment": false
+    }]
+  ]
 }

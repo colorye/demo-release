@@ -29,6 +29,8 @@
     "@babel/preset-env": "^7.18.0",
     "@commitlint/cli": "^17.0.0",
     "@commitlint/config-conventional": "^17.0.0",
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
     "babel-loader": "^8.1.0",
     "env-cmd": "^10.1.0",
     "eslint": "^8.15.0",

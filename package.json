@@ -21,7 +21,7 @@
     "build:browser": "webpack && cp dist/calculator.js examples/browser",
     "build:node": "webpack && cp dist/calculator.js examples/node/ && node examples/node/example.js",
     "build": "webpack",
-    "semantic-release": "semantic-release"
+    "semantic-release": "env-cmd semantic-release && git fetch"
   },
   "devDependencies": {
     "@babel/core": "^7.18.0",

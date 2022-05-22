@@ -2,10 +2,9 @@
   "name": "@colorye/demo-release",
   "version": "3.0.0",
   "main": "dist/calculator.js",
-  "keywords": [],
-  "author": "Rye Nguyen <ryenguyen7411@gmail.com>",
-  "license": "MIT",
-  "private": false,
+  "files": [
+    "dist"
+  ],
   "homepage": "https://github.com/colorye/demo-release#readme",
   "repository": {
     "type": "git",
@@ -14,6 +13,10 @@
   "bugs": {
     "url": "https://github.com/colorye/demo-release/issues"
   },
+  "private": false,
+  "author": "Rye Nguyen <ryenguyen7411@gmail.com>",
+  "keywords": [],
+  "license": "MIT",
   "publishConfig": {
     "access": "public"
   },

@@ -1,6 +1,6 @@
 {
   "name": "@colorye/demo-release",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "main": "dist/calculator.js",
   "keywords": [],
   "author": "Rye Nguyen <ryenguyen7411@gmail.com>",
@@ -21,7 +21,8 @@
     "build:browser": "webpack && cp dist/calculator.js examples/browser",
     "build:node": "webpack && cp dist/calculator.js examples/node/ && node examples/node/example.js",
     "build": "webpack",
-    "semantic-release": "env-cmd semantic-release && git fetch"
+    "release": "env-cmd semantic-release && git fetch",
+    "release:noci": "env-cmd semantic-release --no-ci && git fetch"
   },
   "devDependencies": {
     "@babel/core": "^7.18.0",

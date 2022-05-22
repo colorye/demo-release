@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/colorye/demo-release/compare/v2.0.0...v2.1.0) (2022-05-22)
+
+
+### Features
+
+* optimize semantic-release flow ([fb2be6e](https://github.com/colorye/demo-release/commit/fb2be6e0c0ccf07208f1aea54a5cf1622457ba52))
+
 # [2.0.0](https://github.com/colorye/demo-release/compare/v1.1.6...v2.0.0) (2022-05-22)
 
 

@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/colorye/demo-release/compare/v1.1.6...v2.0.0) (2022-05-22)
+
+
+### Build System
+
+* edit build script ([db80abe](https://github.com/colorye/demo-release/commit/db80abeaece527bd6879795ae313be9657484fcb))
+
+
+### BREAKING CHANGES
+
+* test major version
+
 ## [1.1.6](https://github.com/colorye/demo-release/compare/v1.1.5...v1.1.6) (2022-05-22)
 
 

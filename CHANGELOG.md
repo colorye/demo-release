@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/colorye/demo-release/compare/v1.1.5...v1.1.6) (2022-05-22)
+
+
+### Bug Fixes
+
+* prevent publish npm ([2b1e44d](https://github.com/colorye/demo-release/commit/2b1e44d9e1036bcfc16401a4d990a0bf5ea4e986))
+
 ## [1.1.5](https://github.com/colorye/demo-release/compare/v1.1.4...v1.1.5) (2022-05-21)
 
 

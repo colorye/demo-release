@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/colorye/demo-release/compare/v2.1.0...v3.0.0) (2022-05-22)
+
+
+### Features
+
+* enable npm upload again ([ebc18da](https://github.com/colorye/demo-release/commit/ebc18da837e082707895fd43405b6277555c1e7f))
+
+
+### BREAKING CHANGES
+
+* testing complete, enable npm publish again
+
 # [2.1.0](https://github.com/colorye/demo-release/compare/v2.0.0...v2.1.0) (2022-05-22)
 
 

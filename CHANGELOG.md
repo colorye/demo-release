@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/colorye/demo-release/compare/v3.0.0...v4.0.0) (2022-05-22)
+
+
+### Features
+
+* whitelist files publish to npm ([c132caa](https://github.com/colorye/demo-release/commit/c132caaeb446ea8a744980449e06ad3117f4ed26))
+
+
+### BREAKING CHANGES
+
+* many useless files are gone with this release
+
 # [3.0.0](https://github.com/colorye/demo-release/compare/v2.1.0...v3.0.0) (2022-05-22)
 
 

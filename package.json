@@ -1,6 +1,6 @@
 {
   "name": "@colorye/demo-release",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "main": "dist/calculator.js",
   "files": [
     "dist"
